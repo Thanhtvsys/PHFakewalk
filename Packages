@@ -1,13 +1,13 @@
 Package: com.thanhtvsys.phfakewalk
-Version: 3.0-7
+Version: 3.0-8
 Architecture: iphoneos-arm
 Maintainer: <admin@phmmo.com>
 Depends: firmware (>= 15.6), mobilesubstrate
-Filename: ./debs/PHFakewalk_v3.0-7.deb
-Size: 230056
-MD5sum: 961e79ca74288447dd1954648233c329
-SHA1: 0d5de887547dffba111a082af9f4b78397cb94d1
-SHA256: 115cbadd0dac3886d1ba20ee330cf57f6dd22a85cad63900572eee8bfb618620
+Filename: ./debs/PHFakewalk_v3.0-8.deb
+Size: 230448
+MD5sum: efd8148570795acbf0ca3e8fdf3486de
+SHA1: 23207412d7ca5f48384d817e21fceb2f1233bf1d
+SHA256: 121a7ad7cb966cb6c0a475311bf49550a978485d4e4ae8ed3648f9af28b76759
 Section: Utilities
 Description: Hệ thống giả lập Apple Health tự động.
 Name: PHFakewalk
