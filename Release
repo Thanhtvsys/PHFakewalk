@@ -6,6 +6,6 @@ Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: Hệ thống giả lập Apple Health tự động.
- ca7e9ec610fcf2ece95f1d9bfae1aa33 467 Packages
- c47efa64bf2917587ac8315a01741d52 418 Packages.bz2
- 2d06fe24bf70beae2128698676c68bcc 400 Packages.gz
+ 9caae7c85744a6552bfed4f5b1e37344 467 Packages
+ 871229973c56ec653b446cd21e6d8aa9 418 Packages.bz2
+ 5d33b6b560e3bd20117543f15ab8a668 401 Packages.gz
