@@ -1,0 +1,11 @@
+Origin: PHMMO Fakewalk Repo
+Label: PHMMO Fakewalk Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: Hệ thống giả lập Apple Health tự động.
+ 1f6a1e18f41dcb9add1b20db73bd11db 467 Packages
+ f06ed500233f2d6fa2d5c705cf085a07 422 Packages.bz2
+ 13b8400a10820c85f2f0a939f81bed11 400 Packages.gz
